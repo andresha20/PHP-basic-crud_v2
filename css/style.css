@@ -1,16 +1,11 @@
-body{
-    background-image: url('../img/fondo2.jpg');
+body {
+    background-image: url('../img/background.png');
     background-repeat: no-repeat;
     background-size: cover;
     color: white;
 }
 
-.border{
+.border {
     border: 2px dashed white;
     border-radius: 20px;
-}
-
-.noneD
-{
-    display: none;
 }
